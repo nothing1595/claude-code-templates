@@ -1,0 +1,12 @@
+# Claude Code local settings
+.claude/settings.local.json
+.claude/scheduled_tasks.json
+
+# Environment variables & secrets
+.env
+.env.local
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
